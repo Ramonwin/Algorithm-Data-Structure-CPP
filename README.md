@@ -11,9 +11,9 @@ Mata kuliah teori dan praktik mengenai pemanfaatan struktur data data penyelesai
 6.	Perulangan / Loop
 7.	**Struktur Data Array** : Kumpulan elemen data dengan tipe yang sama yang diindeks dengan nomor integer 
 8.	**Struct** : kumpulan variabel (data member) yang dikelompokkan bersama dalam satu tipe data
-9.	**Stack** : Struktur data LIFO (Last In First Out) untuk penyimpanan sementara
-10.	**Queue** : Struktur data FIFO (First In First Out) untuk antrian data.
-11.	**Linked List** : Kumpulan elemen data yang terhubung melalui pointer
+9.  **Linked List** : Kumpulan elemen data yang terhubung melalui pointer
+10.	**Stack** : Struktur data LIFO (Last In First Out) untuk penyimpanan sementara
+11.	**Queue** : Struktur data FIFO (First In First Out) untuk antrian data.
 12.	Sorting
 13.	Searching
 14.	**Binary Tree** : Struktur data hierarkis dengan node dan cabang
